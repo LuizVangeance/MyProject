@@ -22,7 +22,6 @@
 # Содержание
 - [Genshin Impact, что это за игра?](#Genshin-Impact,-что-это-за-игра?)
 - [Фигурки в наличии](#Фигурки-в-наличии)
-- [Способы передачи](#Способы-передачи)
 - [Оплата](#Оплата)
 
  # Genshin Impact, что это за игра?
@@ -31,28 +30,42 @@
 <h3>Больше информации вы можете найти тут! </h3>
 <div id="header"> 
  <div class="logo2"> 
-  <a  href="https://genshin-impact.fandom.com/ru/wiki/Сяо/Истории#:~:text=Сяо%20-%20не%20настоящее%20имя%20этого,поглощать%20сны%20убитых%20им%20жертв."  align="center" > 
+  <a  href="https://genshin-impact.fandom.com/ru/wiki/Genshin_Impact_Вики"  align="center" > 
    <img width="140px" src="https://img1.cgtrader.com/items/2696121/e8cca99a01/large/xiao-mask-version-1-3d-print-file-3d-model-obj-fbx-stl-blend.jpg" size=1850x1250&quality=96&sign=18504d2df41ee4efae7ffe2f1b09b91b&type=album" align="center"/>
   </a> 
  </div> 
 </div>
 
 # Фигурки в наличии
--Наличие: Сяо, Ци Ци, Кэ Цин, Кадзуха, Тигнари, Дилюк, Сайно, Венти, Хэйдзо, Странник, Чжун Ли
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Будет+дополняться)](https://git.io/typing-svg)
-
-# Способы передачи
-<h2 align="center">Отправка почтой России</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Статья+находится+в+разработке)](https://git.io/typing-svg)
-
-<h2 align="center">Курьером</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Статья+находится+в+разработке)](https://git.io/typing-svg)
+-Наличие: Сяо, Сайно, Странник, Чжун Ли, Дотторе,Эмебр, Эола, Бэй Доу, Мона и многие другие персонажи! 
+<m>
+  <p>
+    <img src="https://sun9-2.userapi.com/GGb_Ywas2Dj8ht4u6zQKJdRi1wMQ3lLaP7DY1g/QadMs0aT41g.jpg" alt="Сяо" width="500" height="600" >
+    <img src="https://sun9-62.userapi.com/Ly2OmsNautVVH0Y4a0CVPearc9tlyCRh48FAcA/IWLSz5raScg.jpg" alt="Дотторе" width="500" height="600" >                
+  </p>
+<m>                                                                                                    
+      <h2 align="center"> А так же у нас сейчас идет скидка на фигурки Чжун Ли и Альбедо! </h2>   
+ <v>                                                                                                          
+  <p>                                                                                                           
+    <img src="https://sun9-77.userapi.com/ShmrSSW1_QjJ6Z3WzLUM6Ut2pq2beEQ_BBD_3Q/hIAMchBgD9o.jpg" alt="Альбедо" width="500" height="600" >
+    <img src="https://sun9-50.userapi.com/4cYYy6vypaueZgauGm-anKIOOvSgkAmnq6D1AA/hHY6Ao5MiiU.jpg" alt="Чжун Ли"  width="500" height="600">  
+  </p>   
+  <v>                                                                                                     
+<h2 align="center">  Больше вы можете посмотреть в группе! Если нажмете на фотографию ниже!</h2>   
+                  
+<div id="header"> 
+ <div class="logo1"> 
+  <a href="https://vk.com/market-211071924"> 
+   <img src="https://sun1-99.userapi.com/impg/iJqvgG8Egde7msrdvALGNqgq1UklRSt1VtilaQ/42HEZdzp2c4.jpg?size=864x1080&quality=95&sign=dde254b8d5b7437249ad1a5d4f7671f3&type=album" width="250"  height="300" align="center" /> 
+  </a> 
+ </div> 
+</div>
+                  
+<h2 align="center"></h2>
 
 # Оплата
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Статья+находится+в+разработке)](https://git.io/typing-svg)
+По всем опросам оплаты, пожалуйста, пишите на эту почту - viushkovaelizaveta@gmail.com
 
 <div id="header"> 
  <div class="logo1"> 
@@ -61,15 +74,18 @@
   </a> 
  </div> 
 </div>
-                                                                                                            
-                                                                                                            
-
+                                                                                              
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Загляните+и+сюда+^^)](https://git.io/typing-svg)
-                                    
                                                                                                             
-Task 2
+<h2 align="center">Task 2</h2>
+                  
 ![image](https://user-images.githubusercontent.com/130035284/231102496-23782c24-d9e2-4224-b36b-627b3b431745.png)
 ![image](https://user-images.githubusercontent.com/130035284/231102581-90ffc76e-e21d-4207-b249-770c1a3df063.png)
 ![image](https://user-images.githubusercontent.com/130035284/231102688-b5e1aed4-026b-45e8-92b4-bbe786d2b6bd.png)
 ![image](https://user-images.githubusercontent.com/130035284/231102802-a5671a0e-8b80-457d-8528-3c7edda963e3.png)
+                                                                                                            
+ <h2 align="center">Task 3</h2>
+                   
+![image](https://user-images.githubusercontent.com/130035284/231251583-aee35d38-034f-4d05-8242-4eee2b168f5e.png)
+
 
