@@ -61,5 +61,15 @@
   </a> 
  </div> 
 </div>
+                                                                                                            
+                                                                                                            
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Загляните+и+сюда+^^)](https://git.io/typing-svg)
+                                    
+                                                                                                            
+Task 2
+![image](https://user-images.githubusercontent.com/130035284/231102496-23782c24-d9e2-4224-b36b-627b3b431745.png)
+![image](https://user-images.githubusercontent.com/130035284/231102581-90ffc76e-e21d-4207-b249-770c1a3df063.png)
+![image](https://user-images.githubusercontent.com/130035284/231102688-b5e1aed4-026b-45e8-92b4-bbe786d2b6bd.png)
+![image](https://user-images.githubusercontent.com/130035284/231102802-a5671a0e-8b80-457d-8528-3c7edda963e3.png)
+
