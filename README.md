@@ -88,4 +88,33 @@
                    
 ![image](https://user-images.githubusercontent.com/130035284/231251583-aee35d38-034f-4d05-8242-4eee2b168f5e.png)
 
+<h2 align="center">Task 4</h2>
+
+Однако, выше прикрепленны все файлы сайта
+
+![image](https://user-images.githubusercontent.com/130035284/235349034-a1433ed8-6ca5-4279-9111-c12f7e2f546e.png)
+![image](https://user-images.githubusercontent.com/130035284/235349003-6623f0a0-fdda-4a0a-9053-fa322a98963c.png)
+![image](https://user-images.githubusercontent.com/130035284/235348948-6a79d8b0-ad37-4ff6-89ad-416bc4673306.png)
+![image](https://user-images.githubusercontent.com/130035284/235348939-a9ddafb5-93d9-435b-93e5-7062f29f551c.png)
+![image](https://user-images.githubusercontent.com/130035284/235348969-3fef1bda-77a6-4f6a-ab20-ca296ba6ac9c.png)
+
+<h2 align="center">Task 3.1 </h2>
+ 
+ Благодаря заданию 3.1 заходя в Backend.Api мне выдается куча всего страшного, ведь я его связала с БД магазина
+ 
+![image](https://user-images.githubusercontent.com/130035284/235349499-f94a03ba-2135-4873-ac6c-f1171cd63b78.png)
+![image](https://user-images.githubusercontent.com/130035284/235349420-00bfdc22-bb8d-49c4-90d8-950b51cd1c15.png)
+![image](https://user-images.githubusercontent.com/130035284/235349430-c815bbda-f3c1-43f0-8948-0347314234e4.png)
+![image](https://user-images.githubusercontent.com/130035284/235349441-264bbe0d-d697-4cec-b08b-a7b95e363a1f.png)
+![image](https://user-images.githubusercontent.com/130035284/235349447-d77e8aaf-ae65-427d-9cde-17d89a30dd3c.png)
+![image](https://user-images.githubusercontent.com/130035284/235349457-c8af2000-d157-4abc-af21-541b1d278d93.png)
+![image](https://user-images.githubusercontent.com/130035284/235349462-8841f7b4-611c-421e-a46a-93087a857aeb.png)
+
+
+А еще это вот так выглядить стало в папке 
+
+![image](https://user-images.githubusercontent.com/130035284/235349358-bd91f2d3-e64c-47f1-aafb-746546598f96.png)
+
+<h2 align="center">Task 5</h2>
+
 
