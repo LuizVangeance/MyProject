@@ -98,7 +98,8 @@
 ![image](https://user-images.githubusercontent.com/130035284/235348939-a9ddafb5-93d9-435b-93e5-7062f29f551c.png)
 ![image](https://user-images.githubusercontent.com/130035284/235348969-3fef1bda-77a6-4f6a-ab20-ca296ba6ac9c.png)
 
-<h2 align="center">Task 3.1 </h2>
+<h2 align="center">Task 3.1 Миграция таблиц базы данных
+в приложение </h2>
  
  Благодаря заданию 3.1 заходя в Backend.Api мне выдается куча всего страшного, ведь я его связала с БД магазина
  
