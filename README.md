@@ -117,5 +117,11 @@
 ![image](https://user-images.githubusercontent.com/130035284/235349358-bd91f2d3-e64c-47f1-aafb-746546598f96.png)
 
 <h2 align="center">Task 5</h2>
+Спустя акое-то время вот что у нас получилось
+                 
+![image](https://github.com/LuizVangeance/MyProject/assets/130035284/3e68c762-d5b8-4050-ac39-fcc4cb38b613)
+                  
+![image](https://github.com/LuizVangeance/MyProject/assets/130035284/aa5d7d9a-accb-48a5-a2e6-1766d670f96f)
 
-
+                  А вот и ожидаемый результат!
+![image](https://github.com/LuizVangeance/MyProject/assets/130035284/9990b8be-74e3-42dd-b9ac-ace67be968cb)
