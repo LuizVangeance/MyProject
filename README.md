@@ -117,7 +117,7 @@
 ![image](https://user-images.githubusercontent.com/130035284/235349358-bd91f2d3-e64c-47f1-aafb-746546598f96.png)
 
 <h2 align="center">Task 5</h2>
-Спустя акое-то время вот что у нас получилось
+Спустя какое-то время вот что у нас получилось
                  
 ![image](https://github.com/LuizVangeance/MyProject/assets/130035284/3e68c762-d5b8-4050-ac39-fcc4cb38b613)
                   
@@ -125,3 +125,10 @@
 
                   А вот и ожидаемый результат!
 ![image](https://github.com/LuizVangeance/MyProject/assets/130035284/9990b8be-74e3-42dd-b9ac-ace67be968cb)
+
+По аналогии и другие таблицы: 
+![image](https://github.com/LuizVangeance/MyProject/assets/130035284/065e0d01-7f90-4c3a-9a0c-a6f65f290f86)
+![image](https://github.com/LuizVangeance/MyProject/assets/130035284/e4b6df41-420a-4b24-9a44-5618002a9924)
+                  
+<h2 align="center">Task 6</h2>
+                  
